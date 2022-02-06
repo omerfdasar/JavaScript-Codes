@@ -1,4 +1,4 @@
-function randomInt(min, max) {
+/* function randomInt(min, max) {
   var numOfValues = max - min + 1;
   var randomNum = Math.random();
   var randomVal = randomNum * numOfValues;
@@ -9,4 +9,4 @@ function randomInt(min, max) {
   //   return Math.floor((max - min + 1) * Math.random()) + min;
 }
 
-randomInt(5, 10);
+randomInt(5, 10); */

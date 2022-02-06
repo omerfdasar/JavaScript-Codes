@@ -1,4 +1,4 @@
-function calculator(num1, num2, operator) {
+/* function calculator(num1, num2, operator) {
   switch (operator) {
     case "+":
       return num1 + num2;
@@ -27,3 +27,4 @@ while (true) {
   console.log(calculator(number1, number2, operation));
   break;
 }
+ */
